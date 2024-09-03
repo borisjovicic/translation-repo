@@ -1,0 +1,26 @@
+{
+  "Language": "NL",
+  "Languages": {
+    "SELECT": "Selecteer",
+    "ENGLISH": "English",
+    "DUTCH": "Nederlands",
+    "FRENCH": "Français",
+    "GERMAN": "Deutsch"
+  },
+  "Month": {
+    "January": "Januari",
+    "February": "Februari",
+    "March": "Maart",
+    "April": "April",
+    "May": "Mei",
+    "June": "Juni",
+    "July": "Juli",
+    "August": "Augustus",
+    "September": "September",
+    "October": "Oktober",
+    "November": "November",
+    "December": "December"
+  }
+}
+
+be309a8a94105903cc472a1fe65d22a0d97389bfd79e738627d045b2ec5762eb34a03991840f0dc7
